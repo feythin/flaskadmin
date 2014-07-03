@@ -4,8 +4,9 @@ flaskadmin
 
 安装 virtualenv环境
 
- wget https://bootstrap.pypa.io/ez_setup.py -O - | python
- easy_install virtualenv
+    wget https://bootstrap.pypa.io/ez_setup.py -O - | python
+
+    easy_install virtualenv
 
 初始化环境
 
