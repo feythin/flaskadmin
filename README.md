@@ -10,4 +10,8 @@ flaskadmin
 
 初始化环境
 
-python tools/install_venv.py
+    python tools/install_venv.py
+测试环境
+
+    easy_install tox
+
