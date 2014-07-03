@@ -6,4 +6,3 @@ flaskadmin
  easy_install virtualenv
 初始化环境
 python tools/install_venv.py
-
