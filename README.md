@@ -14,4 +14,4 @@ flaskadmin
 测试环境
 
     easy_install tox
-
+访问：http://host:5000/admin
